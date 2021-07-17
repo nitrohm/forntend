@@ -50,7 +50,7 @@ export default function Home() {
   </Toolbar>
 </AppBar>
 
-   <h1> <center>เกี่ยวกับเรา</center></h1>
+   <h1> <center>Components</center></h1>
   </main>  
     </div>
   )

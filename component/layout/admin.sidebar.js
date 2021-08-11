@@ -73,8 +73,8 @@ const AdminSidebar = () => {
         </Link>
           <ul className="nav nav-treeview">
             <li className="nav-item">
-            <Link href='#'>
-              <a className="nav-link">
+            <Link href="/login">
+            <a href="/login" className="nav-link">
                 <i className="far fa-circle nav-icon" />
                 <p>Logout</p>
               </a>
